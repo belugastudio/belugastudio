@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://belugastudio.github.io</id>
     <title>BelugaStudio</title>
-    <updated>2021-02-06T12:43:45.223Z</updated>
+    <updated>2021-02-06T12:47:36.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://belugastudio.github.io"/>
     <link rel="self" href="https://belugastudio.github.io/atom.xml"/>
@@ -10,60 +10,4 @@
     <logo>https://belugastudio.github.io/images/avatar.png</logo>
     <icon>https://belugastudio.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, BelugaStudio</rights>
-    <entry>
-        <title type="html"><![CDATA[[本地化] About iOS 14 Updates]]></title>
-        <id>https://belugastudio.github.io/post/ben-di-hua-about-ios-14-updates/</id>
-        <link href="https://belugastudio.github.io/post/ben-di-hua-about-ios-14-updates/">
-        </link>
-        <updated>2021-02-02T14:53:59.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="ios-144">iOS 14.4</h2>
-<h4 id="ios-144-includes-the-following-improvements-for-your-iphone">iOS 14.4 includes the following improvements for your iPhone:</h4>
-<ul>
-<li>Smaller QR codes can be recognized by Camera</li>
-<li>Option to classify Bluetooth device type in Settings for correct identification of headphones for audio notifications</li>
-<li>Notifications for when the camera on your iPhone is unable to be verified as a new, genuine Apple camera in iPhone 12, iPhone 12 mini, iPhone 12 Pro and iPhone 12 Pro Max</li>
-</ul>
-<h4 id="this-release-also-fixes-the-following-issues">This release also fixes the following issues:</h4>
-<ul>
-<li>Image artifacts could appear in HDR photos taken with iPhone 12 Pro</li>
-<li>Fitness widget may not display updated Activity data</li>
-<li>Typing may be delayed and word suggestions may not appear in the keyboard</li>
-<li>The keyboard may not come up in the correct language in Messages</li>
-<li>Audio stories from the News app in CarPlay may not resume after being paused for spoken directions or Siri</li>
-<li>Enabling Switch Control in Accessibility may prevent phone calls from being answered from the Lock Screen</li>
-</ul>
-<p>For information on the security content of Apple software updates, please visit this website: https://support.apple.com/kb/HT201222</p>
-<hr>
-<h4 id="ios-144-包括针对-iphone-的以下改进">iOS 14.4 包括针对 iPhone 的以下改进：</h4>
-<ul>
-<li>“相机”可识别更小的二维码</li>
-<li>“设置”中新增了分类蓝牙设备类型的选项，可正确识别耳机以便于音频通知</li>
-<li>在 iPhone 12、iPhone 12 mini、iPhone 12 Pro 和 iPhone 12 Pro Max 中，新增了 iPhone 上的相机无法验证为全新正品 Apple 相机时的通知功能</li>
-</ul>
-<h4 id="本更新还修复了以下问题">本更新还修复了以下问题：</h4>
-<ul>
-<li>iPhone 12 Pro 拍摄的 HDR 照片中可能出现伪像</li>
-<li>“健身”小组件可能不显示更新的“健身记录”数据</li>
-<li>键盘键入可能出现延迟并且可能不显示字词建议</li>
-<li>“信息”可能显示错误的键盘语言</li>
-<li>“辅助功能”中启用了“切换控制”时可能无法从锁定屏幕接听电话</li>
-</ul>
-<p>如需了解 Apple 软件更新的安全性内容，请访问此网站：https://support.apple.com/zh-cn/HT201222</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021计划]]></title>
-        <id>https://belugastudio.github.io/post/2021-ji-hua/</id>
-        <link href="https://belugastudio.github.io/post/2021-ji-hua/">
-        </link>
-        <updated>2021-02-02T14:48:57.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>每日热点新闻摘取解读/翻译（FT，SCMP，cnet，9TO5MAC...）</li>
-<li>本地化内容（Apple OTA文案，style guide，Google material design）</li>
-<li>一笔相关（张培基/catti教材，）</li>
-<li>美剧相关口语</li>
-<li>配音，有声书</li>
-</ul>
-]]></content>
-    </entry>
 </feed>
